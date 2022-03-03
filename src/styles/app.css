@@ -1,0 +1,10 @@
+.container1 {
+  display: flex;
+  justify-content: center;
+  padding: 12px;
+}
+
+.card-container {
+  float: right;
+}
+

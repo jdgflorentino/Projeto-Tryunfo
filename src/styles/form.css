@@ -1,0 +1,43 @@
+.container {
+  background-color: #e4e5dd;
+  border-radius: 10px;
+  display: flex;
+  flex-flow: column wrap;
+  padding: 12px;
+}
+
+h1 {
+  color: #d04904;
+}
+
+label {
+  color: #112a3a;
+}
+
+.style1 {
+  margin: 12px;
+}
+
+.style1 input, textarea, select {
+  display: block;
+  margin-top: 10px;
+}
+
+.style2 {
+  margin: 12px;
+}
+
+.style2 label {
+  text-align: left;
+}
+
+.style2 input {
+  margin-left: 10px;
+  position: relative;
+  vertical-align: middle;
+}
+
+.btn {
+  margin: 12px 10px;
+  width: 50px;
+}
